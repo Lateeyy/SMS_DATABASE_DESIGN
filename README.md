@@ -16,3 +16,25 @@ The database uses a **dummy dataset sourced from Kaggle** to represent a typical
 - **Departments Table:** Contains department information such as Department ID and Name.
 - **Enrollments Table:** Shows the relationship between students and courses, indicating which students are enrolled in which courses.
 - **Instructors Table:** Created manually in Excel to demonstrate additional data integration, containing Instructor ID, Name, and Department.
+
+### Tools 
+- Excel - for cleaning and creating the Instructors table on the dataset.
+- Microsoft SQL Server
+- SQL Server Management Studio
+- MySQL
+
+### Data Exploration 
+Basic queries were written to explore and validate the data, such as: 
+- Counting students in each department.
+- Listing student enrollments per course.
+- Which students are enrolled in multiple courses, and which courses are they taking?
+- Courses have the highest number of enrollments?
+- Department has the least number of students?
+- What is the gender distribution of students across courses and instructors?
+
+### Skills Demonstrated 
+- SQL database design and table creation
+- Defining primary and foreign key relationships
+- Data insertion and manipulation
+- Writing queries involving JOINs, aggregations, and filters
+- Integrating external datasets (Instructors table via Excel)
