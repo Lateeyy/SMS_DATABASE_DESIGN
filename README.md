@@ -32,6 +32,8 @@ Basic queries were written to explore and validate the data, such as:
 - Department has the least number of students?
 - What is the gender distribution of students across courses and instructors?
 
+
+
 ### Skills Demonstrated 
 - SQL database design and table creation
 - Defining primary and foreign key relationships
